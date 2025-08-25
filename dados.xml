@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<acoes>
+    <acao>
+        <nome>AcmeTech</nome>
+        <valor>R$3,75</valor>
+    </acao>
+    <acao>
+        <nome>NovaEnergia</nome>
+        <valor>R$9,20</valor>
+    </acao>
+</acoes>
