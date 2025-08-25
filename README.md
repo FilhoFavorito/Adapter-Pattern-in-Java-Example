@@ -22,15 +22,11 @@ Este código lê dados de um arquivo XML (`dados.xml`), converte seu conteúdo p
 ```bash
 # Linux/Mac
 javac -cp .:json-20210307.jar Adapter.java
-
-# Windows
-javac -cp .;json-20210307.jar Adapter.java
-
-# Linux/Mac
 java -cp .:json-20210307.jar Adapter
 
 # Windows
 java -cp .;json-20210307.jar Adapter
+javac -cp .;json-20210307.jar Adapter.java
 ```
 
 
